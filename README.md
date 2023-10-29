@@ -19,6 +19,5 @@ Main skills:
 ![CSS3](https://img.shields.io/badge/-css-090909?style=for-the-bage&logo=css3&logoColor=blue
 )
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 

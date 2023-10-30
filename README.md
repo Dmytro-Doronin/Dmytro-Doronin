@@ -1,6 +1,6 @@
 ![Header](https://github.com/Dmytro-Doronin/Dmytro-Doronin/blob/main/assets/GH_D.gif)
 
-## Hi! I'm a beginner front-end developer.  
+## Hi! I'm a front-end developer.  
 
 Main skills: 
 

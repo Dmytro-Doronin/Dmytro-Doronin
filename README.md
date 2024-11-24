@@ -6,7 +6,8 @@ Main skills:
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-bage&logo=javascript 
 )
-![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular&logoColor=red)
+![Angular](https://img.shields.io/badge/-Typescript-090909?style=for-the-bage&logo=angular
+)
 ![RxJS](https://img.shields.io/badge/-RxJS-090909?style=for-the-badge&logo=rxjs&logoColor=B7178C)
 ![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-bage&logo=Typescript
 )

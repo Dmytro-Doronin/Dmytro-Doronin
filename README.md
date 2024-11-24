@@ -6,10 +6,8 @@ Main skills:
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-bage&logo=javascript 
 )
-![React](https://img.shields.io/badge/-React-090909?style=for-the-bage&logo=react 
-)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-bage&logo=redux
-)
+![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular&logoColor=red)
+![RxJS](https://img.shields.io/badge/-RxJS-090909?style=for-the-badge&logo=rxjs&logoColor=B7178C)
 ![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-bage&logo=Typescript
 )
 ![SASS](https://img.shields.io/badge/-Sass-090909?style=for-the-bage&logo=sass

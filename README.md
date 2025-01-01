@@ -1,4 +1,4 @@
-![Header](https://github.com/Dmytro-Doronin/Dmytro-Doronin/blob/main/assets/GH_D.gif)
+![Header](https://github.com/Dmytro-Doronin/Dmytro-Doronin/blob/IMG_0053.PNG)
 
 ## Hi! I'm a front-end developer.  
 

@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Dmytro-Doronin/Dmytro-Doronin/main/IMG_0055.png)
+![Header](https://raw.githubusercontent.com/Dmytro-Doronin/Dmytro-Doronin/main/IMG_0054.png)
 
 ## Hi! I'm a front-end developer.  
 

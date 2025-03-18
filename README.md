@@ -1,4 +1,3 @@
-![Header](https://raw.githubusercontent.com/Dmytro-Doronin/Dmytro-Doronin/main/IMG_0055.png)
 
 ## Hi! I'm a front-end developer.  
 

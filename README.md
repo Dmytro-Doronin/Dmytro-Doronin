@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Dmytro!
+# Hi there, I'm Dmytro!
 
 I’m a **junior web developer** with hands-on experience building full-stack web applications. I work with React, Next.js, TypeScript, and NestJS, and recently completed the HackYourFuture web development program.
-## ✅ Tech Stack
+## Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
@@ -20,7 +20,7 @@ I’m a **junior web developer** with hands-on experience building full-stack we
 
 ---
 
-## 🛠 Tools
+## Tools
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](#)
@@ -31,11 +31,11 @@ I’m a **junior web developer** with hands-on experience building full-stack we
 
 
 
-## 🌱 I’m currently:
+## I’m currently:
 - Looking for a **junior developer position** or **internship**
 - Improving my skills in **TypeScript** , **testing frameworks** and **Next.js**
 - Open to collaboration and mentorship
 
-## 📫 Let's connect!
+## Let's connect!
 - 📩 doronindmytro623@gmail.com
 - 📍 Based in the Netherlands

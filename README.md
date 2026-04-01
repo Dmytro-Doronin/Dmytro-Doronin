@@ -1,6 +1,6 @@
 # Hi there, I'm Dmytro!
 
-I’m a **full-stack web developer** with hands-on experience building full-stack web applications. I work with React, Next.js, TypeScript, and NestJS, and recently completed the HackYourFuture web development program.
+I’m a **full-stack web developer** with hands-on experience building modern web applications. I work with React, Next.js, TypeScript, and NestJS, and recently completed the HackYourFuture web development program.
 
 ![Demo](./assets/GH_D.gif)
 

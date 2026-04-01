@@ -1,6 +1,9 @@
 # Hi there, I'm Dmytro!
 
 I’m a **junior web developer** with hands-on experience building full-stack web applications. I work with React, Next.js, TypeScript, and NestJS, and recently completed the HackYourFuture web development program.
+
+![Demo](./assets/GH_D.gif)
+
 ## Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)

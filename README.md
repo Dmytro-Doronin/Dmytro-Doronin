@@ -40,5 +40,7 @@ I’m a **full-stack web developer** with hands-on experience building modern we
 - Open to collaboration and mentorship
 
 ## Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/dmytro-doronin-4b425b400/)
 - 📩 doronindmytro623@gmail.com
 - 📍 Based in the Netherlands
